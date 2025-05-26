@@ -6,7 +6,7 @@ export default function Allrestau() {
        helllo world it's our project 
        hello 
        hello 
-       
+       hello 
     </div>
   )
 }
