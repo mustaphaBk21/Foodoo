@@ -4,6 +4,9 @@ export default function Allrestau() {
   return (
     <div>
        helllo world it's our project 
+       hello 
+       hello 
+       
     </div>
   )
 }
